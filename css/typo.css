@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&family=Lato&family=Open+Sans&family=Playfair+Display:ital,wght@0,400;0,700;0,800;1,400&family=Raleway:wght@300;400;800&family=Staatliches&display=swap');
+
+
+
+T01{
+ font-family: 'Playfair Display', serif;
+}
+
+.block01{
+ font-family: 'Raleway', sans-serif;
+ margin: 40px;
+}
+
+.p1{
+  text-align: center;
+}
+
+T02{
+font-family: 'Josefin Sans', sans-serif;
+}
